@@ -1,5 +1,7 @@
 # WXTools
 
+A collection of various tools helpful to the weather community.
+
 ## SN_to_COM.py
 
 ### Pulls location from SpotterNetwork and outputs them as GPS NMEA sentences to a COM port
